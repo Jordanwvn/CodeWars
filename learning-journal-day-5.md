@@ -1,0 +1,5 @@
+#Learning Journal Day 5
+
+Working with more complicated logic was very enjoyable today. I learned that functions which return objects in an array can be called using array notation to signify what item you want returned. I thought that was really interesting and I look forward to utilizing solutions like that in the future.
+
+I enjoyed being able to help other people with the project, and I'm learning that I need to have a certain level of responsibility as a resource. For example, in the first step of our project, we created a function to find the sum of two numbers and return an array containing the sum and a string. On a later step, we needed to call the function in order to find the combined sum of three arguments. My solution was sum(sum(a,b)[0],c)[0] which some people ended up copying without really understanding how it worked. I worry about being the cause of someone not learning because they passed a project without conceptually understanding how they did it. I'll have to work on a different approach to helping others in the future if I happen to have more understanding.
