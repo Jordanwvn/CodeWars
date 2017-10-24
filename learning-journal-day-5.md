@@ -1,4 +1,4 @@
-#Learning Journal Day 5
+# Learning Journal Day 5
 
 Working with more complicated logic was very enjoyable today. I learned that functions which return objects in an array can be called using array notation to signify what item you want returned. I thought that was really interesting and I look forward to utilizing solutions like that in the future.
 

@@ -1,4 +1,4 @@
-#Learning Journal Day 6
+# Learning Journal Day 6
 
 Today we started our work with objects and I really had a good time. Knowing about objects really provides a mind-blow moment where everything we've been using becomes contextualized, and logic is just that much easier to understand. I look forward to utilizing objects even more as we move to constructors.
 
