@@ -1,0 +1,3 @@
+# Learning Journal Day 10
+
+today was a bit of a review, we didn't introduce anything really new, but I did learn a bit about pair programming. Where I had problems earlier with pair programming in JS, I really enjoyed pair programming in CSS and HTML. I think it made me incredibly more productive and understanding of the styling. I also found out that I do indeed enjoy working off of a mock-up page. I think it makes it a lot easier for me to map out how I want to tackle a site, which makes me have a lot more interest in CSS and HTML in general. I look forward to more opportunities to work like this in the future.
