@@ -1,0 +1,3 @@
+# Learning Journal Day 14
+
+today, I got a better experience of what it's like to develop an idea for a program with a small group. I wasn't sure how the design and delegation process would go, since we have a bit of a range in skill levels and my previous experience in group work was in a creative field. But I was really pleased with how our work was laid out, and pleasantly surprised by how little I would have to do. This is the first time where I feel like everyone in a group is contributing equally, and it's really easy to divide up who should work on what. I really feel like a part of the team, and I enjoy that feeling. I'm now looking forward to more group work on larger projects in the future.
