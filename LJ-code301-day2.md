@@ -1,0 +1,3 @@
+# Learning Journal Day 2
+
+Today, I learned a lot about using multiple js files, such as one for reference information. I have been working on a personal project with a lot of data for reference, and it was incredibly useful to implement that kind of design. I went from 1,200 lines of code to three files with 150, 250, and 800. I learned a bit about jQuery methods during the reading, and the lab was fairly straightforward. I'm really starting to understand using forEach. I'm trying to use it as much as I can, and I think it's paying off. I used to not be able to understand it when I tried implementing it in the past, but now I'm quite comfortable with it.
