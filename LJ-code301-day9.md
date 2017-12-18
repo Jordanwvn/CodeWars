@@ -1,0 +1,3 @@
+# Learning Journal Day 9
+
+With the end of this week, I realized just how much I've learned in this course by looking at how far we've come. I may not be able to confidently build a fully functional RESTful app from scratch on my own, but I'm at the point where I could slowly figure it out on my own using resources. I really feel like I'm at a good point of confidence. Additionally, I'm learning that I like dealing with the back-end, now that we've been at that point. I like working with spreadsheets, so working in SQL is pretty fun to me. However, more surprising to me, I've found that I really enjoy styling a site as well. So maybe I'll be taking the full-stack route after all.
