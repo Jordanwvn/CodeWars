@@ -1,3 +1,0 @@
-# Learning Journal Day 8
-
-In the middle of the week, I learned quite a bit about RESTful operations. I felt like when they were introduced last week, I didn't really have much of a chance to really dig into them. But now that I had to actually understand how they worked in order to have functional code, I have a much better understanding of them. I think middleware in general can just be confusing for me, because it's a library of functions I'm not used to. But perhaps if I was specifically using a piece of middleware because I wanted to use the specific functions of it, I would have a much more intuitive knowledge of how to use it.
