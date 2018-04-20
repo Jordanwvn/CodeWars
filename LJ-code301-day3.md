@@ -1,3 +1,0 @@
-# Learning Journal Day 3
-
-Over the past few days, I've learned about Handlebars, a JS library which allows us to better manipulate the DOM by linking HTML elements directly with JS. This seems like it's really helpful, and I think I have an idea of how to use it properly. Another thing I learned is that I really work a lot better when I'm with a group. This is the first time in Code Fellows where I really had to do a lot of work I was uncomfortable with over the weekend, and I learned that it's quite a struggle for me to take in information like that without someone to work with me and point me in the right direction.
