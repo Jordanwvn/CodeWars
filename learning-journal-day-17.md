@@ -1,3 +1,0 @@
-# Learning Journal Day 17
-
-Today was our second day of project week, and the day where we finished our MVP. I learned that I need to get more comfortable with merging through git. Because the other person I was working with was sitting directly beside me, we were just telling each other what to add instead of pushing and merging branches. Even though that's a lot more convenient, I'm sure that's not the professional method. Additionally, I learned to sometimes expect the unexpected. We also lost one of our group members today, putting us at 3. I think we can still carry on fine, but it's good to be prepared for something like that which is more substantial.
