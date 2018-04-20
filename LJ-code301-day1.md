@@ -1,3 +1,0 @@
-# Learning Journal Day 1
-
-In the assignments for this day, I learned about a lot of things. In class, I learned about the differences between lets, consts, and vars. I'm now going through a project of mine and determining where I should use what. I also learned a lot about CSS and SMCCS in the lab today. I was really pushed to my limit because CSS is what I'm least comfortable with. I enjoyed working with Richard, as he had a better idea of what we were doing, but after today I think I have a much better idea of how to lay out elements in CSS. A lot of the solutions we came to felt a bit hacky, but I think I'm at a point I can learn from.
