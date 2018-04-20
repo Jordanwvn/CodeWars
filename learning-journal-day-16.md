@@ -1,3 +1,0 @@
-# Learning Journal Day 16
-
-Today was our first proper day of the group project. I learned that I still need to work on being collaborative with other people. My natural instinct when someone comes to me with a problem I can solve is still that I want to do it myself. I think it would help if we were more communicative about things like shared variable names, so I don't have to worry as much about the code being a bit disorganized. I also learned that a bubble sort is pretty easy in JS. I remember doing sorts in the past, but I wasn't sure how that would transfer to JS. I think when it comes to being a part of a team, I really enjoy working on the logic that allows them to be able to get what they want to happen.
